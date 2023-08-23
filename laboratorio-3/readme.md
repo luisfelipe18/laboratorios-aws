@@ -54,3 +54,8 @@ Para confirmar la migracion, deberan hacer un "puente SSH" hacia su base de dato
 
 Probar la conexion a su base de datos en su DB Manager favorito, apuntando a `local-port`.
 
+
+
+
+![img.png](basic-vpc-schema.png)
+
